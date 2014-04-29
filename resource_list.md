@@ -1,5 +1,7 @@
 ## resources and links
 
+this list stinks!  
+
 #### python:  
   
 [python documentation home](https://www.python.org/)  
